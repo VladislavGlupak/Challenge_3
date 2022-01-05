@@ -108,6 +108,7 @@ For the middle and late days, the profits accumulated at a consistent pace in th
 
 ```diff
 !If we reduce transaction cost to 0.1%!
+```
 then profit per trade for the middle day: 
 ```
 231 profit trades, min 9.84, max 48.8, ave 18.089524 and 
