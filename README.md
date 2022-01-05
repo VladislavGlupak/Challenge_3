@@ -86,8 +86,10 @@ Cumulative profit
 ![App's prompts](images/cumu_earlie.JPG)
 
 ### Middle day - 2018-02-15 and late day - 2018-03-20
+```diff
+- Note. !!! Since there are no positive returns > 1%, it will be analyzied positive returns > 0.1%.
+```
 
-![Note. !!! Since there are no positive returns > 1%, it will be analyzied positive returns > 0.1%](http://placehold.it/size/background-hex/foreground-hex?text=a123)
 ```
 count    0.0
 mean     NaN
