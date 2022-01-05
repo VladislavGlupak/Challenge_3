@@ -74,8 +74,10 @@ max       17177.990000
 ### Earlie day - 2018-01-29
 
 After reviewing the profit information across each date from the different time periods for the earlie date, we can see that profits accumulated at a consistent pace during the whole day, topped out as the almost day over and started to level off once the trades ceased to be profitable. It was the more profitable day because it contains 742 profitable trades during day, when returns exceed the transaction cost threshold of 1%. 
+```
 Profit per trade: min 111.2, max 300.27, ave 196.724070.
 Sum of the profits is 145969.25999999995. (if transaction cost is 1%)
+```
 
 Summary - earlie day
 
@@ -101,9 +103,16 @@ min      NaN
 max      NaN
 ```
 
-For the middle and late days, the profits accumulated at a consistent pace in the early morning, the most profitable time is a noon part of the day. And after the 6 pm profitability starts to level off. Theese days are not profitable, because returns doesn't exceed the transaction cost threshold of 1%. If we reduce transaction cost to 0.1% then profit per trade for the middle day: 231 profit trades, min 9.84, max 48.8, ave 18.089524 and profit per trade for the late day: 106 profit trades, min 8.62, max 27.93, ave 12.869151.
-Sum of the profits for middle day is 4178.6799999999985 (if transaction cost is 0.1%).
-Sum of the profits for late day is 1364.130000000001. (if transaction cost is 0.1%).
+For the middle and late days, the profits accumulated at a consistent pace in the early morning, the most profitable time is a noon part of the day. And after the 6 pm profitability starts to level off. Theese days are not profitable, because returns doesn't exceed the transaction cost threshold of 1%. 
+If we reduce transaction cost to 0.1% then profit per trade for the middle day: 
+```
+231 profit trades, min 9.84, max 48.8, ave 18.089524 and 
+profit per trade for the late day: 106 profit trades, min 8.62, max 27.93, ave 12.869151.
+```
+```diff
+Sum of the profits for middle day is 4178.6799999999985 !if transaction cost is 0.1%!.
+Sum of the profits for late day is 1364.130000000001. !if transaction cost is 0.1%!.
+```
 
 Summary - middle day
 
