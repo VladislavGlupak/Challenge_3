@@ -109,8 +109,8 @@ If we reduce transaction cost to 0.1% then profit per trade for the middle day:
 231 profit trades, min 9.84, max 48.8, ave 18.089524 and 
 profit per trade for the late day: 106 profit trades, min 8.62, max 27.93, ave 12.869151.
 ```
-```diff
-Sum of the profits for middle day is 4178.6799999999985 !if transaction cost is 0.1%!.
+```
+Sum of the profits for middle day is 4178.6799999999985 ```diff!if transaction cost is 0.1%!```.
 Sum of the profits for late day is 1364.130000000001. !if transaction cost is 0.1%!.
 ```
 
