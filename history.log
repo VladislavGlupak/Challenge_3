@@ -1,0 +1,50 @@
+   53  git commit -m "adding colors to readme diff"
+   54  git push
+   55  git add .
+   56  git commit -m "adding pics"
+   57  git push
+   58  git add .
+   59  git commit -m "updating readme"
+   60  git push
+   61  git add .
+   62  git commit -m "updating readme"
+   63  git push
+   64  git add .
+   65  git commit -m "updating readme"
+   66  git push
+   67  git add .
+   68  git commit -m "updating readme"
+   69  git push
+   70  git add .
+   71  git commit -m "updating readme"
+   72  git push
+   73  git add .
+   74  git commit -m "updating readme - mid and late days"
+   75  git push
+   76  git add .
+   77  git commit -m "updating readme - mid and late days summary"
+   78  git push
+   79  git add .
+   80  git commit -m "fixing issues"
+   81  git push
+   82  git add .
+   83  git commit -m "changing readme file"
+   84  git push
+   85  git add .
+   86  git commit -m "fixing some typos"
+   87  git push
+   88  history > history.log
+   89  history 50 > history.log
+   90  git status
+   91  git status
+   92  ls
+   93  git status
+   94  git push
+   95  history 100 > history.log
+   96  git status
+   97  git status
+   98  ls
+   99  history 100 > history2.log
+  100  ls
+  101  git status
+  102  history 50 > history.log
