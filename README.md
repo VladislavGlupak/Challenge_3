@@ -105,7 +105,7 @@ max      NaN
 
 For the middle and late days, the profits accumulated at a consistent pace in the early morning, the most profitable time is a noon part of the day. And after the 6 pm profitability starts to level off. Theese days are not profitable, because returns doesn't exceed the transaction cost threshold of 1%. 
 ```
-If we reduce transaction cost to 0.1% then profit per trade for the middle day: 
+> If we reduce transaction cost to 0.1% then profit per trade for the middle day: 
 231 profit trades, min 9.84, max 48.8, ave 18.089524 and 
 profit per trade for the late day: 106 profit trades, min 8.62, max 27.93, ave 12.869151.
 ```
