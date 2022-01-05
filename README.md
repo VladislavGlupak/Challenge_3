@@ -89,7 +89,7 @@ Cumulative profit
 
 ### Middle day - 2018-02-15 and late day - 2018-03-20
 ```diff
-- Note. !!! Since there are no positive returns > 1%, it will be analyzied positive returns > 0.1%.
+- Note. !!! Since there are no trades with the positive returns exceed the 1%, it will be analyzied trades with positive returns > 0.1%.
 ```
 
 ```
