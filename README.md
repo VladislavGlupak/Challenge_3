@@ -42,7 +42,7 @@ It were analized profitability for two periods:
 * earlier, middle and late days.
 
 An analysis of the entire period showed that the price of bitcoin did not differ greatly between both exchangers.
-It is obvious when check plot and summarystatustics.
+It is obvious when check plot and summary statistics.
 
 Bitstamp:
 
@@ -105,6 +105,21 @@ For the middle and late days, the profits accumulated at a consistent pace in th
 Sum of the profits for middle day is 4178.6799999999985 (if transaction cost is 0.1%).
 Sum of the profits for late day is 1364.130000000001. (if transaction cost is 0.1%).
 
+Summary - middle day
+
+![App's prompts](images/sum_mid.JPG)
+
+Summary - late day
+
+![App's prompts](images/sum_late.JPG)
+
+Cumulative profit - middle day
+
+![App's prompts](images/cumu_mid.JPG)
+
+Cumulative profit - late day
+
+![App's prompts](images/cumu_late.JPG)
 
 
 ---
