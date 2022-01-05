@@ -93,7 +93,7 @@ Cumulative profit
 ```
 
 ```
-Example for midle day:
+Example for middle day (there are no trades with the positive returns exceed the 1%):
 count    0.0
 mean     NaN
 std      NaN
