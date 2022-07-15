@@ -14,7 +14,7 @@ and then
 
 ---
 
-## Technologies
+## Technologies and tools
 
 This project leverages the following tools for financial analysis:
 
